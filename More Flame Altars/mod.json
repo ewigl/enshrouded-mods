@@ -1,0 +1,11 @@
+{
+  "id": "more_flame_altars",
+  "name": "More Flame Altars",
+  "version": "0.1.0",
+  "capabilities": ["patch"],
+  "dependencies": [],
+  "authors": ["EwigLicht"],
+  "description": null,
+  "license": null,
+  "icon": null
+}
