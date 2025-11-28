@@ -7,7 +7,7 @@ local EXTINCTION = 0.35
 
 -- [雾气密度](0-1)；游戏默认是 1.0，数值越低雾越稀薄。不推荐设置过低，会影响游戏体验。
 -- [Density of Shroud fog](0-1); Game's Default is 1.0; lower values result in thinner fog. Not recommended to set too low, as it may affect gameplay experience.
-local DENSITY_SCALE = 0.69
+local DENSITY_SCALE = 0.50
 
 -- [屏障雾厚度](0-未知)；默认是 8。设置为 0 可以移除屏障雾。
 -- [Barrier fog thickness](0-I don't know); Game's default is 8. Setting to 0 removes barrier fog.
