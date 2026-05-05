@@ -1,0 +1,11 @@
+{
+  "id": "less_dense_shroud_fog",
+  "name": "Less Dense Shroud Fog",
+  "version": "0.1.0",
+  "capabilities": ["patch"],
+  "dependencies": [],
+  "authors": ["EwigLicht"],
+  "description": null,
+  "license": null,
+  "icon": null
+}
