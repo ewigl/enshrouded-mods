@@ -1,7 +1,7 @@
 {
   "id": "minor_cn_fixes",
   "name": "Minor CN Fixes",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "capabilities": [
     "patch"
   ],
