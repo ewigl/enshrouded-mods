@@ -1,0 +1,188 @@
+[
+  {
+    "id": 120734496,
+    "en": "Embervale can still be saved... Where there's ash, there's embers, kid! The Shroud suffocates the valleys, so seek the Elixir Well with your new gear and raze the root of our misery! Ignite the depths and set this evil ablaze! Go on, I'm counting on ya, Flameborn!",
+    "cn": "薪谷还有救……我们将从灰烬中浴火重生，孩子！不过现在峡谷已经被瘴气笼罩，带着你的新装备找到魔药之井，铲除我们那些带来痛苦的根源！点燃深渊，让邪恶无所遁形！出发吧，我相信你，火之子！",
+    "cn_fixed": "薪谷还有救……我们将从灰烬中浴火重生，孩子！不过现在峡谷已经被瘴气笼罩，带着你的新装备找到魔药之井，铲除那些给我们带来痛苦的根源！点燃深渊，让邪恶无所遁形！出发吧，我相信你，火之子！"
+  },
+  {
+    "id": 2592478783,
+    "en": "Tiny Chest",
+    "cn": "小型储物箱",
+    "cn_fixed": "微型储物箱"
+  },
+  {
+    "id": 1869478678,
+    "en": "You are not alone. There are other survivors, drowsing in nearby Ancient Vaults. Find them so they may aid in your journey. Go gently — one beckons nearby, just outside of the Shroud's grasp.",
+    "cn": "你并不孤单。还有其他幸存者在附近的远古密室中休眠。找到他们，他们就能帮助你完成旅程。有一个就在不远处，瘴气之外。",
+    "cn_fixed": "你并不孤单。还有其他幸存者在附近的远古密室中沉睡。找到他们，他们就能帮助你完成旅程。小心前行 -- 其中一位就在不远处的瘴气之外。"
+  },
+  {
+    "id": 3175745683,
+    "en": "New Hint found",
+    "cn": "已找到新的提示",
+    "cn_fixed": "获得新的提示"
+  },
+  {
+    "id": 3270964429,
+    "en": "Available slot for food types that aren't already being digested.",
+    "cn": "有尚未被消化的食物类型栏位可用。",
+    "cn_fixed": "可用于消化其他食物类型的空闲栏位"
+  },
+  {
+    "id": 3956846214,
+    "en": "Your clothes are wet. Dry yourself by the fire.",
+    "cn": "你的衣服湿透了。在火边在身上烤干吧。",
+    "cn_fixed": "你的衣服湿透了。去火边烘干自己吧。"
+  },
+  {
+    "id": 1283742881,
+    "en": "People & Places",
+    "cn": "人&地点",
+    "cn_fixed": "人物&地点"
+  },
+  {
+    "id": 365165298,
+    "en": "Expand / Collapse",
+    "cn": "扩展/收起",
+    "cn_fixed": "展开/收起"
+  },
+  {
+    "id": 373717649,
+    "en": "None set",
+    "cn": "无套装",
+    "cn_fixed": "未设置"
+  },
+  {
+    "id": 3049645436,
+    "en": "Hide",
+    "cn": "兽皮",
+    "cn_fixed": "隐藏"
+  },
+  {
+    "id": 1529083238,
+    "en": "Hide gloves",
+    "cn": "兽皮手套",
+    "cn_fixed": "隐藏手套"
+  },
+  {
+    "id": 1583741505,
+    "en": "Hide helmet",
+    "cn": "兽皮头盔",
+    "cn_fixed": "隐藏头盔"
+  },
+  {
+    "id": 4258249521,
+    "en": "Hide HUD",
+    "cn": "隐藏HUD元素",
+    "cn_fixed": "隐藏HUD"
+  },
+  {
+    "id": 1727251319,
+    "en": "Shroud Nexus",
+    "cn": "瘴气核心",
+    "cn_fixed": "瘴气枢纽"
+  },
+  {
+    "id": 2198869897,
+    "en": "Compare Equipment",
+    "cn": "比较装置",
+    "cn_fixed": "比较装备"
+  },
+  {
+    "id": 1125830499,
+    "en": "Replenished Time in the Shroud",
+    "cn": "已补充瘴气停留时间",
+    "cn_fixed": "补充的瘴气停留时间"
+  },
+  {
+    "id": 2119713903,
+    "en": "When the remaining time in the Shroud is below %k, defeated enemies drop time replenishing Orbs.",
+    "cn": "当瘴气停留时间低于%k时，击败敌人将使停留时间恢复恢复球秒。",
+    "cn_fixed": "当瘴气停留时间低于%k时，击败敌人将掉落补充时间的恢复球。"
+  },
+  {
+    "id": 3014896536,
+    "en": "Use the Overgrowth Tool to apply this to structures in your base.",
+    "cn": "使用 \"过度生长工具 \"将其应用于基地中的结构。",
+    "cn_fixed": "使用 \"增殖工具 \"将其应用于基地中的建筑。"
+  },
+  {
+    "id": 3655386310,
+    "en": "A magical tool capable of <b>adding and removing various types of overgrowth</b> to walls in your base. \n\nIt can only be used <b>within Flame Altar range</b> and requires <b>overgrowth material</b>.",
+    "cn": "一种神奇的工具，能在基地的墙壁上<b>添加或移除各种杂草</b>。 \n\n它只能<b>在火焰祭坛范围内</b>使用，并且需要<b>过度生长材料</b>。",
+    "cn_fixed": "一种神奇的工具，能在基地的墙壁上<b>添加或移除各种杂草</b>。 \n\n它只能<b>在火焰祭坛范围内</b>使用，并且需要<b>增殖材料</b>。"
+  },
+  {
+    "id": 2624896441,
+    "en": "A helpful villager that will live and work in your base.",
+    "cn": "一位乐于助人的村民将在你的基地中生活与工作。",
+    "cn_fixed": "一位乐于助人的村民，很乐意在你的基地中生活与工作。"
+  },
+  {
+    "id": 2706117185,
+    "en": "Damage",
+    "cn": "损坏",
+    "cn_fixed": "伤害"
+  },
+  {
+    "id": 3398431124,
+    "en": "Protection",
+    "cn": "保护",
+    "cn_fixed": "防护"
+  },
+  {
+    "id": 235247107,
+    "en": "This cute plushy makes the fearsome critters much more approachable.",
+    "cn": "这个可爱的毛绒玩具能够让最可爱的怪物也变得可爱起来。",
+    "cn_fixed": "这个可爱的毛绒玩具能够让最可怕的怪物也变得亲切起来。"
+  },
+  {
+    "id": 2665461345,
+    "en": "The Shroud, a ruinous fog which sought only to spread and devour.",
+    "cn": "名为瘴气的毁灭性无情地蔓延并吞噬一切。",
+    "cn_fixed": "其名为瘴气，一种只求蔓延与吞噬的毁灭性迷雾。"
+  },
+  {
+    "id": 3070911806,
+    "en": "Took ya long enough to find me! Look at you — weak and puny. And they call you Flameborn? First thing you need is equipment... lucky you woke me up first. Crafting a <b>Scrappy Sword, a Spiked Club or some armor</b> will serve us well!",
+    "cn": "总算来了！看看你，怎么一副弱不禁风的样子。堂堂火之子就这种样子么？首先需要的是设备... 幸好你先找到了我。你可以先从制作<b>废料剑或者尖刺棒</b> 或一些铠甲 开始着手！",
+    "cn_fixed": "总算来了！看看你，一副弱不禁风的样子。堂堂火之子就这种样子么？首先需要的是装备... 幸好你先找到了我。你可以先从制作<b>废料剑、尖刺棒或一些铠甲</b>开始着手！"
+  },
+  {
+    "id": 1021163939,
+    "en": "Ice Bolt I",
+    "cn": "寒冰箭 I",
+    "cn_fixed": "寒冰矢 I"
+  },
+  {
+    "id": 3203744016,
+    "en": "Ice Bolt II",
+    "cn": "寒冰箭 II",
+    "cn_fixed": "寒冰矢 II"
+  },
+  {
+    "id": 219934874,
+    "en": "Improved magical ammunition that creates a single bolt of ice, damaging enemies upon impact and slowing them afterward.\n\n<b>Spell: Depletes</b> after use. Equip the spell and use <b>mana</b> to cast it with a <b>staff.</b>",
+    "cn": "改进后的魔法弹药，使用时将创造一枚寒冰箭，命中时对敌人造成伤害并使其减速。\n\n<b>法术：使用后会消耗</b>。装备该法术并使用<b>法力</b>来用<b>法杖施法。</b>",
+    "cn_fixed": "改进后的魔法弹药，使用时将创造一枚寒冰矢，命中时对敌人造成伤害并使其减速。\n\n<b>法术：使用后会消耗</b>。装备该法术并使用<b>法力</b>来用<b>法杖施法。</b>"
+  },
+  {
+    "id": 3517621637,
+    "en": "Magical ammunition that creates a single bolt of ice, damaging enemies upon impact and slowing them afterward.\n\n<b>Spell: Depletes</b> after use. Equip the spell and use <b>mana</b> to cast it with a <b>staff.</b>",
+    "cn": "魔法弹药，使用时将创造一枚寒冰箭，命中时对敌人造成伤害并使其减速。\n\n<b>法术：使用后会消耗</b>。装备该法术并使用<b>法力</b>来用<b>法杖施法。</b>",
+    "cn_fixed": "魔法弹药，使用时将创造一枚寒冰矢，命中时对敌人造成伤害并使其减速。\n\n<b>法术：使用后会消耗</b>。装备该法术并使用<b>法力</b>来用<b>法杖施法。</b>"
+  },
+  {
+    "id": 3695884516,
+    "en": "An eternal version of the Ice Bolt I. The spell damages enemies upon impact and slows them afterwards.\n\n<b>Eternal Spell:</b> Does <b>not deplete.</b> Equip the eternal spell and use <b>mana</b> to cast it with a <b>staff.</b>",
+    "cn": "寒冰箭 I的永恒版本。该法术会在命中敌人时对其造成伤害，并使其减速。\n\n<b>永恒法术</b>永恒法术不会消耗<b>。</b>装备永恒法术，消耗<b>法力</b>来用<b>法杖施法。</b>",
+    "cn_fixed": "寒冰矢 I 的永恒版本。该法术会在命中敌人时对其造成伤害，并使其减速。\n\n<b>永恒法术</b>永恒法术不会消耗<b>。</b>装备永恒法术，消耗<b>法力</b>来用<b>法杖施法。</b>"
+  },
+  {
+    "id": 2074075141,
+    "en": "Enormous Magic Chest",
+    "cn": "巨型魔法箱",
+    "cn_fixed": "极巨魔法箱"
+  }
+]
