@@ -27,13 +27,13 @@
     "id": 3270964429,
     "en": "Available slot for food types that aren't already being digested.",
     "cn": "有尚未被消化的食物类型栏位可用。",
-    "cn_fixed": "可用于消化其他食物类型的空闲栏位"
+    "cn_fixed": "可消化其他类型食物的空闲栏位。"
   },
   {
     "id": 3956846214,
     "en": "Your clothes are wet. Dry yourself by the fire.",
     "cn": "你的衣服湿透了。在火边在身上烤干吧。",
-    "cn_fixed": "你的衣服湿透了。去火边烘干自己吧。"
+    "cn_fixed": "你的衣服湿透了。去火边把身上烤干吧。"
   },
   {
     "id": 1283742881,
