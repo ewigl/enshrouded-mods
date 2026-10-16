@@ -5,12 +5,12 @@ local function get_translations(locale)
 	if locale ~= nil then
 		for _, loc in ipairs(localization.languages) do
 			if loc.language == locale then
-				content_hash = loc.dataHash
+				content_hash = loc.data.hash
 				break
 			end
 		end
 	else
-		content_hash = localization.keenglishDataHash
+		content_hash = localization.keenglishData.hash
 	end
 
 	if content_hash == nil then
