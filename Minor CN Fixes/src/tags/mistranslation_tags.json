@@ -2,7 +2,14 @@
   {
     "id": 656954820,
     "en": "(%k threads)",
-    "cn": "（%k 线程）"
+    "cn": "（%k丝线）",
+    "cn_fixed": "（%k 线程）"
+  },
+  {
+    "id": 1816934885,
+    "en": "Auto-Pause Lore Notes",
+    "cn": "自动知识条目玩家暂停",
+    "cn_fixed": "自动暂停播放知识条目"
   },
   {
     "id": 120734496,
@@ -83,12 +90,6 @@
     "cn_fixed": "隐藏HUD"
   },
   {
-    "id": 1727251319,
-    "en": "Shroud Nexus",
-    "cn": "瘴气核心",
-    "cn_fixed": "瘴气枢纽"
-  },
-  {
     "id": 2198869897,
     "en": "Compare Equipment",
     "cn": "比较装置",
@@ -143,18 +144,6 @@
     "cn_fixed": "这个可爱的毛绒玩具能够让最可怕的怪物也变得亲切起来。"
   },
   {
-    "id": 2665461345,
-    "en": "The Shroud, a ruinous fog which sought only to spread and devour.",
-    "cn": "名为瘴气的毁灭性无情地蔓延并吞噬一切。",
-    "cn_fixed": "其名为瘴气，一种只求蔓延与吞噬的毁灭性迷雾。"
-  },
-  {
-    "id": 3070911806,
-    "en": "Took ya long enough to find me! Look at you — weak and puny. And they call you Flameborn? First thing you need is equipment... lucky you woke me up first. Crafting a <b>Scrappy Sword, a Spiked Club or some armor</b> will serve us well!",
-    "cn": "总算来了！看看你，怎么一副弱不禁风的样子。堂堂火之子就这种样子么？首先需要的是设备... 幸好你先找到了我。你可以先从制作<b>废料剑或者尖刺棒</b> 或一些铠甲 开始着手！",
-    "cn_fixed": "总算来了！看看你，一副弱不禁风的样子。堂堂火之子就这种样子么？首先需要的是装备... 幸好你先找到了我。你可以先从制作<b>废料剑、尖刺棒或一些铠甲</b>开始着手！"
-  },
-  {
     "id": 1021163939,
     "en": "Ice Bolt I",
     "cn": "寒冰箭 I",
@@ -162,27 +151,9 @@
   },
   {
     "id": 3203744016,
-    "en": "Ice Bolt II",
-    "cn": "寒冰箭 II",
-    "cn_fixed": "寒冰矢 II"
-  },
-  {
-    "id": 219934874,
-    "en": "Improved magical ammunition that creates a single bolt of ice, damaging enemies upon impact and slowing them afterward.\n\n<b>Spell: Depletes</b> after use. Equip the spell and use <b>mana</b> to cast it with a <b>staff.</b>",
-    "cn": "改进后的魔法弹药，使用时将创造一枚寒冰箭，命中时对敌人造成伤害并使其减速。\n\n<b>法术：使用后会消耗</b>。装备该法术并使用<b>法力</b>来用<b>法杖施法。</b>",
-    "cn_fixed": "改进后的魔法弹药，使用时将创造一枚寒冰矢，命中时对敌人造成伤害并使其减速。\n\n<b>法术：使用后会消耗</b>。装备该法术并使用<b>法力</b>来用<b>法杖施法。</b>"
-  },
-  {
-    "id": 3517621637,
-    "en": "Magical ammunition that creates a single bolt of ice, damaging enemies upon impact and slowing them afterward.\n\n<b>Spell: Depletes</b> after use. Equip the spell and use <b>mana</b> to cast it with a <b>staff.</b>",
-    "cn": "魔法弹药，使用时将创造一枚寒冰箭，命中时对敌人造成伤害并使其减速。\n\n<b>法术：使用后会消耗</b>。装备该法术并使用<b>法力</b>来用<b>法杖施法。</b>",
-    "cn_fixed": "魔法弹药，使用时将创造一枚寒冰矢，命中时对敌人造成伤害并使其减速。\n\n<b>法术：使用后会消耗</b>。装备该法术并使用<b>法力</b>来用<b>法杖施法。</b>"
-  },
-  {
-    "id": 3695884516,
-    "en": "An eternal version of the Ice Bolt I. The spell damages enemies upon impact and slows them afterwards.\n\n<b>Eternal Spell:</b> Does <b>not deplete.</b> Equip the eternal spell and use <b>mana</b> to cast it with a <b>staff.</b>",
-    "cn": "寒冰箭 I的永恒版本。该法术会在命中敌人时对其造成伤害，并使其减速。\n\n<b>永恒法术</b>永恒法术不会消耗<b>。</b>装备永恒法术，消耗<b>法力</b>来用<b>法杖施法。</b>",
-    "cn_fixed": "寒冰矢 I 的永恒版本。该法术会在命中敌人时对其造成伤害，并使其减速。\n\n<b>永恒法术</b>永恒法术不会消耗<b>。</b>装备永恒法术，消耗<b>法力</b>来用<b>法杖施法。</b>"
+    "en": "Ice Bolt III",
+    "cn": "寒冰箭 III",
+    "cn_fixed": "寒冰矢 III"
   },
   {
     "id": 2074075141,

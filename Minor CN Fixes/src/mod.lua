@@ -5,7 +5,7 @@ local localization = game.assets.get_resources_by_type("keen::LocaTagCollectionR
 local content_hash = nil
 for _, loc in ipairs(localization.languages) do
     if loc.language == "Zh_Cn" then
-        content_hash = loc.dataHash
+        content_hash = loc.data.hash
         break
     end
 end
@@ -195,7 +195,7 @@ content_hash = game.guid.to_content_hash(new_content.guid)
 
 for _, loc in ipairs(localization.languages) do
     if loc.language == "Zh_Cn" then
-        loc.dataHash = content_hash
+        loc.data.hash = content_hash
         break
     end
 end
