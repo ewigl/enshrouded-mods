@@ -28,6 +28,10 @@
     "en": "Molly\n\nLucy\n\nBear\n"
   },
   {
+    "id": 776004044,
+    "en": "Hits restore a set amount of Health"
+  },
+  {
     "id": 887959913,
     "en": "Günther\n<i>Still here, forever!</i>\n\nLotte\n<i>I snack and attack</i>\n\nIkko\n<i>Won every howling contest against passing sirens.</i>"
   },
@@ -38,6 +42,10 @@
   {
     "id": 990837483,
     "en": "Stefano Giusio\n\nSyed Abdullah Al Rakib Hasan\n\nVukašin Bagić\n<i>this is fine.jpg</i>"
+  },
+  {
+    "id": 1242054950,
+    "en": "Mana on Hit"
   },
   {
     "id": 1406361011,
@@ -80,6 +88,10 @@
     "en": "François Hardy\n<i>Cool username, bro!</i>\n\nLiam Hurley\n\nMichał Miłosz"
   },
   {
+    "id": 2072452180,
+    "en": "Stamina on Hit"
+  },
+  {
     "id": 2117448176,
     "en": "Anastasios Brakis\n\nAndreas Mantler\n<i>You need to organize this data? Hold my beer chunk!</i>\n\nDaniel Gomes\n<i>\"Be curious on your journey.\"</i>"
   },
@@ -94,6 +106,14 @@
   {
     "id": 2219694436,
     "en": "Orbie\n<i>Spooky little anime-looking black cat furball with yellow eyes - a halloween favorite!</i>\n\nLilly\n\nSammy\n<i>Not the biggest fan of real water.\nSo I created digital water for him.\nNow he enjoys it in dogs heaven.\nWoof Woof Wau Wau.\nYou will be the best forever! \\<3 </i>\n"
+  },
+  {
+    "id": 2358216562,
+    "en": "Health on Hit"
+  },
+  {
+    "id": 2511513455,
+    "en": "Hits restore a set amount of Mana"
   },
   {
     "id": 2520415666,
@@ -166,6 +186,10 @@
   {
     "id": 3632424892,
     "en": "Thaddäus Fischer\n<i>Flameborn! You've come far and yet, this isn't the only world where human greed and hubris have cast the shadow of corruption and decay upon nature.\nCarry your spark further, beyond Embervale, to dispel the darkness and great honor shall be thine!\nFor the flame in your heart is strong!</i>\n\nVinzenz Johna\n<i>I save and I know things.</i>\n\nYounes Saoudi\n<i>To Asmae, for always believing in me and standing by my side. With all my love.</i>"
+  },
+  {
+    "id": 3714865319,
+    "en": "Hits restore a set amount of Stamina"
   },
   {
     "id": 3740871883,

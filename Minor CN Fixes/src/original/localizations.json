@@ -556,7 +556,7 @@
   },
   {
     "id": 25931779,
-    "en": "Scaled the ancient spire in the Cinder's Cradle",
+    "en": "Scaled the ancient spire in the Cinder's Cradle.",
     "cn": "攀爬至余烬摇篮的远古尖塔顶部。"
   },
   {
@@ -4990,7 +4990,7 @@
   },
   {
     "id": 258211074,
-    "en": "This shield is adorned with a skull that spouts bloodcurdling mockery and jeers towards your foes whenever you block their attacks. However, should you lose the upper hand in battle, its ridicule may fall upon you, too.",
+    "en": "This shield is adorned with a skull that spouts bloodcurdling mockery and jeers at your foes whenever you block their attacks. However, should you lose the upper hand in battle, its ridicule may fall upon you, too.",
     "cn": "每次格挡敌人的攻击时，这面盾牌上镶嵌着的骷髅将对敌人发出令人胆战心惊的讥讽嘲笑，但如果你在战斗中失利，骷髅也将同样无情地揶揄你。"
   },
   {
@@ -6184,7 +6184,7 @@
   },
   {
     "id": 314378718,
-    "en": "When told about the legend of Merphisz, Fyraszh sprung forth from the crowd of Drakling. \n\n<i>\"Why splash in water for eternity? Why adjust to the whims of the waves if you could forge your own path in fire?\"</i> He asked, red hot with rage. Determination to surpass his brother swelled in him, so Fyraszh travelled not far, but deep. He set off to claim the core of the mountain, to forge his glory in molten metal and liquid heat. \n\nWhen they saw him again, his scales had hardened like coal, and the skin underneath glowed like the sun. Adorned in ash and gold, he yelled from the mountaintop: <i>\"See? The mountain rumbles and spouts, it chants our name and that of our clan! Drak' Fyr! Drak'Fyr!\"</i>\n\nAnd as the mountain indeed sputtered and roared, a fountain as bright as the evening sun erupted behind him. The amber glow swallowed his body, but lifted his soul to Ark Morgo where he'd be a leader for all eternity.",
+    "en": "When told about the legend of Merphisz, Fyraszh sprung forth from the crowd of Drakling. \n\n<i>\"Why splash in water for eternity? Why adjust to the whims of the waves if you could forge your own path in fire?\"</i> He asked, red-hot with rage. Determination to surpass his brother swelled in him, so Fyraszh travelled not far, but deep. He set off to claim the core of the mountain, to forge his glory in molten metal and liquid heat. \n\nWhen they saw him again, his scales had hardened like coal, and the skin underneath glowed like the sun. Adorned in ash and gold, he yelled from the mountaintop: <i>\"See? The mountain rumbles and spouts, it chants our name and that of our clan! Drak' Fyr! Drak'Fyr!\"</i>\n\nAnd as the mountain indeed sputtered and roared, a fountain as bright as the evening sun erupted behind him. The amber glow swallowed his body, but lifted his soul to Ark Morgo where he'd be a leader for all eternity.",
     "cn": "聆听梅菲兹的传说时，菲拉兹从一众龙裔中站了出来。\n\n<i>“为什么要在水中寻找永恒？当你明明能够用火焰铸就自己的道路，为何还要去指望喜怒无常的海浪？”</i>他如此问道，全身都因为愤怒而变得通红。他的心中充满了要超越自己兄弟的决心，于是菲拉兹决定向深处而不是远方旅行。他觉醒要征服山脉的核心，要用融化的金属与液体的热浪来锻造自己的荣誉。\n\n当再次现身时，他鳞片已经像煤炭一样坚硬，底下的皮肤就像太阳一样散发着光芒。在灰烬与黄金的点缀下，他站在山巅放声咆哮：<i>“看见了吗？山峦也在晃动迸发，它在呼喊着我们与氏族的名字！卓克·法尔！卓克·法尔！”</i>\n\n山峦随即也开始了真正的崩裂与咆哮，一道像夕阳般明亮的喷泉在他身后迸发。琥珀色的光芒吞噬了他的身体，但也将他的灵魂推进了魔戈方舟，在那里，他将成为永恒的领袖。"
   },
   {
@@ -10782,7 +10782,7 @@
   {
     "id": 541239122,
     "en": "Defeating an enemy with a Magic weapon restores Health equal to <b>%k</b> times your Intelligence to all players within <b>15</b> meters of the target. ",
-    "cn": "使用魔法武器击杀一名敌人时，目标周围<b>15</b>米范围内的所有玩家将获得等同于你的<b>%k</b>倍的智力。 "
+    "cn": "使用魔法武器击杀一名敌人时，目标周围<b>15</b>米范围内的所有玩家将获得等同于你的<b>%k</b>倍智力的生命。 "
   },
   {
     "id": 541257555,
@@ -15573,6 +15573,10 @@
     "cn": "舒适度 - 美观"
   },
   {
+    "id": 776004044,
+    "en": "Hits restore a set amount of Health"
+  },
+  {
     "id": 776500704,
     "en": "Venturing deeper was worth the risk.\n\nRed marble arches leap above; crimson gallows from which only a few souls dare to dangle. \n\nThey're audacious. They're bold. They're everything to me. \nThe hanged ought to consider themselves lucky, swaying so close to the red halos above... \n\nSimply magnificent. ",
     "cn": "看来勇闯深处的决定是正确的。\n\n用红色大理石建造的拱门赫然立于头顶，几乎没有人胆敢在那猩红的绞刑架上逗留。\n\n这些建筑真是别出心裁。它们的风格确实大胆。它们对我来说意味着一切。\n那些吊死者应该庆幸自己能够在如此接近红色光环的地方飘来荡去……\n\n真是太震撼人心了。 "
@@ -18649,7 +18653,7 @@
   {
     "id": 931798533,
     "en": "Chinese",
-    "cn": "简体中文"
+    "cn": "中文"
   },
   {
     "id": 931819118,
@@ -24543,6 +24547,10 @@
     "id": 1241957677,
     "en": "Select an attribute for more information.",
     "cn": "选择一项属性以了解详情。"
+  },
+  {
+    "id": 1242054950,
+    "en": "Mana on Hit"
   },
   {
     "id": 1242109230,
@@ -40520,6 +40528,10 @@
     "cn": "更新"
   },
   {
+    "id": 2072452180,
+    "en": "Stamina on Hit"
+  },
+  {
     "id": 2072492397,
     "en": "No recipes learned yet.",
     "cn": "尚未学会任何配方。"
@@ -41011,7 +41023,7 @@
   },
   {
     "id": 2095424258,
-    "en": "Taiwanese",
+    "en": "Traditional Chinese",
     "cn": "繁体中文"
   },
   {
@@ -42005,7 +42017,7 @@
   {
     "id": 2143452502,
     "en": "When equipped with a Melee weapon, you can perform an Evasion Attack by pressing <b>%k</b> while evading. \nYou will dash towards the enemy and deal <b>50%%</b> additional weapon damage.\n\n<b>Cost:</b> %k Stamina\n\n<b>Block Breaker</b> \nThis special attack fills a blocking enemy's <i>Stun Bar</i> twice as much when hit.",
-    "cn": "装备近战武器时，你可以在闪避时按<b>%k</b>发动闪避攻击。\n你将向敌人猛冲并造成额外<b>50%</b>的武器伤害。\n\n<b>消耗：</b>%k体力\n\n<b>破防打击</b>\n这种特殊攻击将对格挡中的敌人施加两倍的<i>晕眩条</i>增长。"
+    "cn": "装备近战武器时，你可以在闪避时按<b>%k</b>发动闪避攻击。\n你将向敌人猛冲并造成额外<b>50%%</b>的武器伤害。\n\n<b>消耗：</b>%k体力\n\n<b>破防打击</b>\n这种特殊攻击将对格挡中的敌人施加两倍的<i>晕眩条</i>增长。"
   },
   {
     "id": 2143709963,
@@ -45182,7 +45194,7 @@
   },
   {
     "id": 2312539910,
-    "en": "There's Nothing Here!!\n",
+    "en": "There's Nothing Here!!",
     "cn": "扑了个空！\n"
   },
   {
@@ -45667,8 +45679,8 @@
   },
   {
     "id": 2336559474,
-    "en": "When equipped with a Wand, you can perform a special attack by holding <b>%k</b> during a jump.\n\nIt fires a magical projectile that deals <b>50%%</b> additional weapon damage in a small blast radius.\n\n<b>Cost:</b> %k Stamina",
-    "cn": "装备魔棒时，你可以在跳跃期间长按<b>%k</b>发动特殊攻击。\n\n发射一枚魔法投射物，对小范围半径内的目标额外造成<b>50%</b>的武器伤害。\n\n<b>消耗：</b>%k点体力"
+    "en": "When equipped with a Wand, you can perform a special attack by holding <b>%k</b> during a jump.\n\nIt fires a magical projectile that deals <b>50%%</b> additional weapon damage in a small blast radius.\n\n<b>Cost:</b> %k Mana",
+    "cn": "装备魔棒时，你可以在跳跃期间长按<b>%k</b>发动特殊攻击。\n\n发射一枚魔法投射物，对小范围半径内的目标额外造成<b>50%%</b>的武器伤害。\n\n<b>消耗：</b>%k点体力"
   },
   {
     "id": 2336893735,
@@ -46064,6 +46076,10 @@
     "id": 2358148652,
     "en": "Basket II",
     "cn": "篮子 II"
+  },
+  {
+    "id": 2358216562,
+    "en": "Health on Hit"
   },
   {
     "id": 2358839255,
@@ -48906,6 +48922,10 @@
     "cn": "昔日教堂的和平已经不复存在。这里的厅堂中再也无法感受到熟悉的沉默与深思。如今一到深夜，我就会听见那些隐隐约约的骚动。墓穴之中出现了变化……我不敢再继续逗留了。\n\n等打包好行囊，我就要离开这里。虽然我祈祷在爬下悬崖的过程中不会遇到追兵，但恐怕我的祈祷不会得到回应。也许我应该走那条<i>秘密通道</i>，为了以防万一，我还得带上自己的<i>棍棒</i>。"
   },
   {
+    "id": 2511513455,
+    "en": "Hits restore a set amount of Mana"
+  },
+  {
     "id": 2511601020,
     "en": "A sickly looking frog that is tinged blue by exposure to spores.",
     "cn": "一只看上去病恹恹的青蛙，因为与孢子接触过而变成了蓝色。"
@@ -50751,7 +50771,7 @@
   {
     "id": 2603056752,
     "en": "When equipped with a Melee weapon, you can perform a special attack by holding <b>%k</b> during a jump.\n\nCrash Down deals 50%% more weapon damage in a small blast radius and costs Stamina depending on weapon type used. \n\n<b>Cost:</b> %k - %k Stamina\n\n<b>Block Breaker</b> \nThis special attack fills a blocking enemy's <i>Stun Bar</i> twice as much when hit..",
-    "cn": "装备近战武器时，你可以在跳跃期间长按<b>%k</b>发动特殊攻击。\n\n坠落攻击将将对小范围半径内的目标造成额外50%的武器伤害，并且会根据武器类型消耗体力。\n\n<b>消耗：</b> %k - %k 体力\n\n<b>破防打击</b>\n这种特殊攻击将对格挡中的敌人施加两倍的<i>晕眩条</i>增长。。"
+    "cn": "装备近战武器时，你可以在跳跃期间长按<b>%k</b>发动特殊攻击。\n\n坠落攻击将将对小范围半径内的目标造成额外50%%的武器伤害，并且会根据武器类型消耗体力。\n\n<b>消耗：</b> %k - %k 体力\n\n<b>破防打击</b>\n这种特殊攻击将对格挡中的敌人施加两倍的<i>晕眩条</i>增长。。"
   },
   {
     "id": 2603265155,
@@ -71823,6 +71843,10 @@
     "cn": "命锁头盔"
   },
   {
+    "id": 3714865319,
+    "en": "Hits restore a set amount of Stamina"
+  },
+  {
     "id": 3715386045,
     "en": "Tools rule!",
     "cn": "工具万岁！"
@@ -74356,7 +74380,7 @@
   {
     "id": 3838659445,
     "en": "Perform a <b>Merciless Attack</b> by pressing <b>%k</b> to deal <b>%k</b> damage to an <b>overpowered</b> enemy. \n\n<b>Overpower</b> \nAttacking blocking enemies or parrying their attacks fills their <i>Stun Bar</i> until they become <b>overpowered</b>.\n<b>Overpowered</b> enemies are open for Merciless Attacks. \n\nWands, Staves and Bows cannot perform Merciless Attacks.",
-    "cn": "对<b>被压制</b>的敌人按<b>%k</b>发动一次<b>残酷打击</b>以造成<b>%k</b>伤害。\n\n<b>压制</b>\n攻击格挡中的敌人或者是招架敌人的攻击都会使他们的<i>晕眩条</i>上涨，直到最后进入<b>被压制</b>状态。\n<b>被压制</b>的敌人将毫无防备，这种时候你可以对其发动残酷打击。 \n\n魔棒、法杖和弓无法使用，持续残酷打击秒。"
+    "cn": "对<b>被压制</b>的敌人按<b>%k</b>发动一次<b>残酷打击</b>以造成<b>%k</b>伤害。\n\n<b>压制</b>\n攻击格挡中的敌人或者是招架敌人的攻击都会使他们的<i>晕眩条</i>上涨，直到最后进入<b>被压制</b>状态。\n<b>被压制</b>的敌人将毫无防备，这种时候你可以对其发动残酷打击。 \n\n魔棒、法杖和弓无法使用残酷打击。"
   },
   {
     "id": 3839293751,
