@@ -2,15 +2,15 @@
 -- [Mod Configuration]
 
 -- [雾的消光系数](0-1)；游戏默认是 0.35。数值越高光线越难以穿透（越看不清）。
--- [Fog extinction coefficient](0-1); Game's default is 0.3499999940395355. Higher values make light harder to penetrate (less visibility).
+-- [Fog extinction coefficient](0-1); Game's default is 0.35. Higher values make light harder to penetrate (less visibility).
 local EXTINCTION = 0.35
 
 -- [雾气密度](0-1)；游戏默认是 1.0，数值越低雾越稀薄。不推荐设置过低，会影响游戏体验。
 -- [Density of Shroud fog](0-1); Game's Default is 1.0; lower values result in thinner fog. Not recommended to set too low, as it may affect gameplay experience.
 local DENSITY_SCALE = 0.75
 
--- [屏障雾厚度](0-未知)；默认是 8。设置为 0 可以移除屏障雾。
--- [Barrier fog thickness](0-I don't know); Game's default is 8. Setting to 0 removes barrier fog.
+-- [屏障雾厚度](0-未知)；默认是 6。设置为 0 可以移除屏障雾。
+-- [Barrier fog thickness](0-I don't know); Game's default is 6. Setting to 0 removes barrier fog.
 local BARRIER_FOG_THICKNESS = 0
 
 --
